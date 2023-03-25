@@ -1,3 +1,4 @@
+
 while True:
     number = int(input('Введите число: '))
     list_odd_numbers = []
